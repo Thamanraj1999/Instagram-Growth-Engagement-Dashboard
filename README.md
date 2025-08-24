@@ -48,4 +48,9 @@ Methodology
 
 * Analyzes followers, engagement, geography, content, and influence scores via proprietary algorithm.
 
+Future work
 
+* Network Analysis: Explore collaborations and relationships between influencers to uncover community structures.
+* Sentiment Analysis: Analyze audience comments to gauge positivity, negativity, or controversy.
+* Hashtag & Caption Insights: Evaluate how specific hashtags, keywords, and caption styles affect engagement.* 
+* AI-Powered Forecasting: Use machine learning to predict future influencer growth and engagement patterns.
