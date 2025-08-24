@@ -27,7 +27,7 @@ Top 10 Influencers
 4. cristiano
 5. kyliejenner
 6. justinbieber
-7.kimkardashian
+7. kimkardashian
 8. kyliejenner
 9. neygo
 10. taylorswift
