@@ -54,3 +54,6 @@ Future work
 * Sentiment Analysis: Analyze audience comments to gauge positivity, negativity, or controversy.
 * Hashtag & Caption Insights: Evaluate how specific hashtags, keywords, and caption styles affect engagement.* 
 * AI-Powered Forecasting: Use machine learning to predict future influencer growth and engagement patterns.
+
+  <img width="1365" height="730" alt="image" src="https://github.com/user-attachments/assets/7af89090-4d3a-4f93-a2e4-f115578c6705" />
+
