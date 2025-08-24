@@ -18,3 +18,17 @@ Brazil: 1,345 score, 17 influencers
 Indonesia: 816 score, 10 influencers
 France: 624 score, 8 influencers
 The U.S. dominates, with more than 3x the influence of India.
+
+
+Top 10 Influencers
+selenagomez
+arianagrande
+beyonce
+cristiano
+kyliejenner
+justinbieber
+kimkardashian
+kyliejenner
+neygo
+taylorswift
+therock
