@@ -56,4 +56,8 @@ Future work
 * AI-Powered Forecasting: Use machine learning to predict future influencer growth and engagement patterns.
 
   <img width="1365" height="730" alt="image" src="https://github.com/user-attachments/assets/7af89090-4d3a-4f93-a2e4-f115578c6705" />
+<img width="1285" height="734" alt="image" src="https://github.com/user-attachments/assets/9901ec6c-d4c7-43ff-8118-a36c218dc527" />
+<img width="1215" height="731" alt="image" src="https://github.com/user-attachments/assets/8c7b3f09-8fce-4e6e-962a-05efc716e628" />
+<img width="1303" height="734" alt="image" src="https://github.com/user-attachments/assets/5767c060-15a2-44d8-821c-34a71a939e25" />
+
 
