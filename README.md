@@ -12,23 +12,23 @@ Our platform captures the pulse of Instagram’s top creators with:
 
 Global Influence Breakdown
 
-USA: 6,910 score, 82 influencers
-India: 2,123 score, 26 influencers
-Brazil: 1,345 score, 17 influencers
-Indonesia: 816 score, 10 influencers
-France: 624 score, 8 influencers
-The U.S. dominates, with more than 3x the influence of India.
+* USA: 6,910 score, 82 influencers
+* India: 2,123 score, 26 influencers
+* Brazil: 1,345 score, 17 influencers
+* Indonesia: 816 score, 10 influencers
+* France: 624 score, 8 influencers
+* The U.S. dominates, with more than 3x the influence of India.
 
 
 Top 10 Influencers
-selenagomez
-arianagrande
-beyonce
-cristiano
-kyliejenner
-justinbieber
-kimkardashian
-kyliejenner
-neygo
-taylorswift
+1. selenagomez
+2. arianagrande
+3. beyonce
+4. cristiano
+5. kyliejenner
+6. justinbieber
+7.kimkardashian
+8. kyliejenner
+9. neygo
+10. taylorswift
 therock
