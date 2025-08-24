@@ -37,3 +37,15 @@ Key Findings:
 * Engagement Rate Variations: While the overall average engagement rate is 0.02, there are significant variations by country, with the US (1.33) and India (0.49) showing the highest rates.
 * Content Channel Impact: Entertainment accounts consistently generate higher engagement than other categories, with some top performers achieving 11-12M likes on new posts.
 * Geographic Concentration: Instagram influence is heavily concentrated in North America, with significant representation from India and Brazil, and more limited presence in Europe and other regions.
+
+Engagement Trends
+
+* 357M average likes (cumulative)
+* 77.41M followers per account (avg.)
+* Highest engagement rates: USA (1.33), India (0.49), South Korea (0.46)
+
+Methodology
+
+* Analyzes followers, engagement, geography, content, and influence scores via proprietary algorithm.
+
+
