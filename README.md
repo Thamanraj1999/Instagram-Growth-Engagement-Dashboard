@@ -31,4 +31,3 @@ Top 10 Influencers
 8. kyliejenner
 9. neygo
 10. taylorswift
-therock
