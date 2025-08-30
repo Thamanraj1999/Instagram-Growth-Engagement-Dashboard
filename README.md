@@ -4,19 +4,23 @@ Explore influencer performance with this repository, which includes a dashboard 
 
 Dashboard Insights:
 Our platform captures the pulse of Instagram’s top creators with:
-* 15,482M followers tracked
-* 700K posts studied
-* 1.05M average likes per post
-* 0.02 engagement rate (last 60 days)
-* 16K combined influence score
+- 🌍 **15,482M** followers tracked  
+- 📝 **700K** posts studied  
+- ❤️ **1.05M** average likes per post  
+- 📊 **0.02** engagement rate (last 60 days)  
+- ⭐ **16K** combined influence score  
+
 
 Global Influence Breakdown
 
-* USA: 6,910 score, 82 influencers
-* India: 2,123 score, 26 influencers
-* Brazil: 1,345 score, 17 influencers
-* Indonesia: 816 score, 10 influencers
-* France: 624 score, 8 influencers
+| Country    | Score | Influencers |
+|------------|-------|-------------|
+| USA        | 6,910 | 82          |
+| India      | 2,123 | 26          |
+| Brazil     | 1,345 | 17          |
+| Indonesia  |   816 | 10          |
+| France     |   624 | 8           |
+
 * The U.S. dominates, with more than 3x the influence of India.
 
 
